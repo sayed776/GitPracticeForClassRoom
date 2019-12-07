@@ -1,2 +1,2 @@
 # GitPracticeForClassRoom
-This is a sample replication of hypothetical scenario of startup
+i will be writing sms code over hear
